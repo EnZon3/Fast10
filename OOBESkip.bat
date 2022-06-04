@@ -2,7 +2,7 @@
 
 echo This will skip the OOBE and create a user called Administator. Press any key to continue.
 
-pause
+pause > nul
 
 reg import OOBESkip.reg
 

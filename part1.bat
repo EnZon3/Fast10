@@ -23,4 +23,8 @@ bcdboot C:\Windows /s W:
 
 echo From this point on, a lot of stuff is manual. You will need to perform the Command prompt exploit while services are starting and run part2.bat which is in the ISO file, and after that you also need to perform the OOBE skip. To do the OOBE skip, press CTRL+SHIFT+F3, then go to the directory of this ISO file and then run OOBESkip.bat
 
-echo Restart your PC.
+echo Press any key to reboot your computer
+
+pause > nul
+
+shutdown -r -f -t 0
