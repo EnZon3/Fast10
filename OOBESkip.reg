@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup]
+"CmdLine"=""
+"RespecializeCmdLine"=""
+"OOBEInProgress"=dword:00000000
+"SetupType"=dword:00000000
+"SetupPhase"=dword:00000000
+"SystemSetupInProgress"=dword:0000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"EnableCursorSuppression"=dword:00000000

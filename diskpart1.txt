@@ -1,0 +1,9 @@
+sel disk 0
+convert gpt
+create part efi size=500
+format fs=fat32 quick
+assign letter w
+create part primary
+format quick
+assign letter c
+exit
