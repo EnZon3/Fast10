@@ -4,8 +4,10 @@ net user /add user
 
 net localgroup /add users user
 
-echo Reg file 2 going now, unpause to start reg part 2
+echo Reg file 2 going now, press any key to start reg part 2
 
-pause
+pause > nul
 
 reg import KeyChanges2.reg
+
+echo done, do not reboot
