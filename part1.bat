@@ -15,7 +15,7 @@ cd /d D:
 
 cd sources
 
-dism /apply-image /imagefile:install.wim /index:1 /applydir:C:\
+dism /apply-image /imagefile:install.esd /index:1 /applydir:C:\
 
 bcdboot C:\Windows /s W:
 
