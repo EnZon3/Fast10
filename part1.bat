@@ -3,13 +3,15 @@
 echo Welcome to the Express Windows 10 installer
 echo Press any key to start the semi-automatic setup
 
-pause
+pause > nul
 
 diskpart /s diskpart1.txt
 
-echo While DISM is 60% of the way through applying the image, open regedit and load 2 hives: C:\windows\System32\config\SYSTEM and name it sys, and then load C:\windows\System32\config\SOFTWARE and name it soft, and then load KeyChanges.reg, which is located in the root directory of this CD.
+echo While DISM is 60% of the way through applying the image,
+echo open regedit and load 2 hives: C:\windows\System32\config\SYSTEM and name it sys, and then load C:\windows\System32\config\SOFTWARE and name it soft, and then load KeyChanges.reg, which is located in the root directory of this CD.
+echo Press any key to continue.
 
-pause
+pause > nul
 
 cd /d D:
 
