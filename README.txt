@@ -16,8 +16,6 @@ If you would like to make a video about my installer, you are free to make one, 
 
     Script Made by EnZon3, repository here: github.com/EnZon3/Fast10 - Credit to Endermanch for the original speedrun.
 
-
-
 ------------
 
 --NOTES--
