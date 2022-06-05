@@ -27,6 +27,12 @@ If you would like to make a video about my installer, you are free to make one, 
     [+] This script is semi-automated.
     [ ] If you don't know what you're doing, don't run this script. You're better off using the regular installer. It's much more reliable, and this script is just a proof of concept.
 
-"After all, you can't win the game if you don't play it." - EnZon3, 2022
-'Why use a reliable installer if you can use a very buggy and unreliable one?' - Also EnZon3, 2022
+
+--Funny Quotes--
+    "After all, you can't win the game if you don't play it." - EnZon3, 2022
+    'Why use a reliable installer if you can use a very buggy and unreliable one?' - Also EnZon3, 2022
+    "I'm not a real programmer, I'm just a coder" - EnZon3, 2022
+    "That's a good question, let me search that up on Stack Overflow" - EnZon3, 2022
+    "GitHub Copilot is my lord and savior" - EnZon3, 2022
+    
 
