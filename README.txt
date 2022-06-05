@@ -19,7 +19,7 @@ If you would like to make a video about my installer, you are free to make one, 
 
 If you have any questions, please contact me on Discord:
 
-    EnZon3#1274
+    TheEnZon3#1274
 
 ------------
 
