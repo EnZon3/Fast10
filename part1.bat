@@ -13,7 +13,7 @@ echo Press any key to continue.
 
 pause > nul
 
-cd /d X:\sources
+cd /d E:\sources
 
 cd sources
 
