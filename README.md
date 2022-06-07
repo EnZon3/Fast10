@@ -1,6 +1,8 @@
 # Fast10
  Batch and registry files for an express installation of Windows 10 21h2
  
+ ![](https://img.shields.io/github/downloads/EnZon3/Fast10/total?color=blue&label=total%20downloads)
+ 
  ## Building
  
  To build the ISO, you need ImgBurn, or another iso creator. Copy the files that aren't GitHub files to you computer and add them to the ISO. Do not make it bootable.
