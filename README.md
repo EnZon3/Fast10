@@ -10,9 +10,13 @@
  ## Prerequisites
  
  -- A Windows 10 21H2 ISO file
+ 
  -- At least 40 GB of space in a virtual hard drive
+ 
  -- At least 5 GB of RAM
+ 
  -- Some level of knowledge of Windows
+ 
  
  ## Running
  
